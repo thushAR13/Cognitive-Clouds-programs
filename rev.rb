@@ -1,5 +1,5 @@
 str = "Hello world!!!"
 
-str.reverse!
+str = str.reverse
 
 print str
